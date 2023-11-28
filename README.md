@@ -27,7 +27,6 @@ We will explore data and analyse on many ways
 -   Calculate the total revenue from each of the top 5 clients in Part 1.
 -   Create a summary DataFrame showing the totals for the top 5 clients with the following information: total units purchased, total shipping price, total revenue, and total profit. Sort by total profit
 -   Format the data and rename the columns to names suitable for presentation. Currency should be in millions of dollars
--   Write a brief 2-3 sentence summary of your findings
 
 
 
