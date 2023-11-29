@@ -9,7 +9,7 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 # Exploration and Analysis
 We will explore data and analyse on many ways
 -   Viewing Column names
--   what describe function shows
+-   What describe function shows
 -   Correctly identify the category with the most entries
 -   For the category with the most entries, correctly identify the subcategory with the most entries
 -   Correctly identify the 5 clients with the most entries in the data
