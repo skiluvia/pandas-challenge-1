@@ -4,12 +4,12 @@
 # Background
 This module challenge focused on data analysis with Python's Pandas library. As a crucial component in various fields, such as data science, machine learning, and business intelligence, practical data analysis involves examining, cleaning, processing, and extracting useful information from large datasets. This assignment provides a hands-on opportunity to develop these skills.
 
-In this challenge, were told to dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Mission involves identifying top customers, popular product categories, calculating profits, and more. The goal is to have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
+In this challenge, were are told to dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Mission involves identifying top customers, popular product categories, calculating profits, and more. The goal is to have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
 
 # Exploration and Analysis
 We will explore data and analyse on many ways
 -   Viewing a few Column names of the dataframe from the imported list/data
--   What describe function shows
+-   Describe function shows the statistical information of data
 -   Correctly identify the category with the most entries
 -   For the category with the most entries, correctly identify the subcategory with the most entries
 -   Correctly identify the 5 clients with the most entries in the data
@@ -25,7 +25,7 @@ We will explore data and analyse on many ways
 -   Created a new column for the profit of each line using line cost and line price
 
 # Summary
--  Calculated the total revenue from each of the top 5 clients in Part 1. Also created a summary DataFrame showing the totals for the top 5 clients with the following information: total units purchased, total shipping price, total revenue, and total profit. Sorting by total profit, format the data and rename the columns to names suitable for presentation. Currency should be in millions of dollars. The client ID 24741 generated a total profit of over $36M which it is 12 times over other clients. If this is my business this is one of the clients to make sure their demands are prioritized.
+-  Calculated the total revenue from each of the top 5 clients in Part 1. Also created a summary DataFrame showing the totals for the top 5 clients with the following information: total units purchased, total shipping price, total revenue, and total profit. Sorting by total profit, format the data and rename the columns to names suitable for presentation. Currency should be in millions of dollars. The **client ID 24741 generated a total profit of over $36M which it is 12 times over other clients**. If this is my business this is one of the clients to make sure their demands are prioritized. It also looks like **consumables** such as **bathroom supplies** are the most sought products.
 
 
 # Appendix
